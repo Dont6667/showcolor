@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tazik", "Tazik\Tazik.csproj", "{DFDBAEE8-531D-456E-B440-65CA3CF627D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDBAEE8-531D-456E-B440-65CA3CF627D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDBAEE8-531D-456E-B440-65CA3CF627D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDBAEE8-531D-456E-B440-65CA3CF627D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDBAEE8-531D-456E-B440-65CA3CF627D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198144EE-0EF3-47EB-8245-E3700A7B22F1}
+	EndGlobalSection
+EndGlobal
